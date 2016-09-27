@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/postjob"
+            android:title="Post Job" />
+        <item
+            android:id="@+id/history"
+            android:title="History" />
+        <item
+            android:id="@+id/settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/logout"
+            android:title="Logout" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="Report Problem" />
+            <item
+                android:id="@+id/nav_send"
+                android:title="Terms &amp; Conditions" />
+        </menu>
+    </item>
+</menu>

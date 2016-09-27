@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_00bb263e9443664ca8504611a89bf046ce616c1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.0_e65d95979c5c25dd7749e8b3e4b342c9cda0c46b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.0_a10bfd354932004b11ee2de61999661c70225104.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.0_c766ebc93278f7493d449bfc31f29ef0846315a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_472349f87aa1df36a7f2279c1d5465be42f63a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.6.0_3fb75bc6432e08b9bbc128a57a2db42eb8f9c0d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_581cb9fb02473cea7b4cc1b7927b4c4c27b15525.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.0_68cab1a2aaa0a158c9dc0de46d776130786c2b55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d96d5670c8d3fda3cae44e8666c3444d62c316de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e016f1499b2fb53cb445adfa55d8be3bbb7293fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.0_ac205992c939d1ea0e7ceff5184dcdb3280942e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_3a33a7f182f0d2bb0cc5663f5242b192755c8c4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.0_e5d3e15222d6466c3a3b15b4a76137e91e009156.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_d223c77d0a0e45a5daa1d7bd8421683e36ecda6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_93ead3defbd99a191ef428e577efb09c43b87ccf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.0_72d26c450a2d3b83b53bef394f859982ab951e44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_d62d8c446467062b258e0519538d4402b4b7aff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.0_dbcb6ff112bd956bd3c25d2313d40e55924de508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c07e59fcec5bcd1e4ff5ae945af320019089b520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.0_9d9e1494b012470bf62d28ef81f79f9ee696063c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_c3e431f0580df37fa8f07b796617ae59b32e7e1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_eacf6b637392b35870436978adecf0da2e31e933.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_acb9103071de4e6d5ec709965eaef951b33d2977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_8420193d0b710004b54b04315860b36a5baa1da6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_35fad59f7cb9b870b4ce2eff616c64e63b58f8e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ac6fc076f0eff232955e3ec32ac075d8d793ccbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_0d3f45b5e3785b42b1fc797b718098eb13916843.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.0_424a77a9f202bcc6ffc315bd74793f9b6a6065e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.0_d456b48acee70343062fc90c54838dc654d9276a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jessica/dev/Microlancer/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/Users/jessica/dev/Microlancer/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.0_1ccd20b688c622fe761ecbcf7728d5017bc3a489.jar" />
+    </item>
+
+</items>
